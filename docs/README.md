@@ -2,13 +2,13 @@
 
 ContactSubmission resource (spam/read flags, audit) + a contact form.
 
-- **Source:** https://github.com/fadymondy/contact
+- **Source:** https://github.com/togo-framework/contact
 - **Reference app:** https://fadymondy.com
 
 ## Install
 
 ```bash
-togo install fadymondy/contact
+togo install togo-framework/contact
 ```
 
 The plugin self-registers on blank-import (no manual wiring). See the top-level

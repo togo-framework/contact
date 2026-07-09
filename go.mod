@@ -1,4 +1,4 @@
-module github.com/fadymondy/contact
+module github.com/togo-framework/contact
 
 go 1.26.4
 
